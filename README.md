@@ -13,11 +13,12 @@ Shabby
 
 Kerbal Konstructs
 
+**DepthMask**
+The DepthMask module is from Anomaliae
+Right now it's buggy 
 
-**Known bugs:**
-
-Scaling for the launchsite is a bit off, this will be fixed in a future update
-
+As its his creation i don't have the source code, therefore i can't publish it on a repo
+Will ask him if anything can be done
 
 
 **How do i place the statics?**
